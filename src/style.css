@@ -1,0 +1,41 @@
+.App {
+  background-color: #395c7c;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+select {
+  padding: 10px;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.cat-card {
+  margin: 10px;
+  text-align: left;
+}
+
+.cat-card img {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 10px;
+}
+
+.Button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
